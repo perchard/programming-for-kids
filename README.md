@@ -6,10 +6,6 @@ A list of resources that help kids learn programming, and adjacent topics. Pull 
 
 "Learn serious code. In a seriously fun way."
 
-## [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
-
-"Create and Manage Your Own Space Program"
-
 ## [Robotopia](https://github.com/robotopia-x/robotopia)
 
 "Introducing kids to coding with tiny virtual robots! "
@@ -25,6 +21,10 @@ A list of resources that help kids learn programming, and adjacent topics. Pull 
 ## [Scratch](https://scratch.mit.edu/)
 
 "Create stories, games, and animations. Share with others around the world."
+
+## [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+
+"Create and Manage Your Own Space Program"
 
 ## [Tiny Titan](http://tinytitan.github.io/)
 
